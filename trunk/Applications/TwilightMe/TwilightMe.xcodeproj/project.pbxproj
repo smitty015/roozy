@@ -830,6 +830,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = TwilightMe_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					./Facebook/,
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "TwilightMe-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -837,6 +841,7 @@
 					"\"$(SRCROOT)/Bump\"",
 				);
 				PRODUCT_NAME = TwilightMe;
+				SDKROOT = iphoneos;
 			};
 			name = Debug;
 		};
@@ -848,6 +853,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = TwilightMe_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					./Facebook/,
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "TwilightMe-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -855,6 +864,7 @@
 					"\"$(SRCROOT)/Bump\"",
 				);
 				PRODUCT_NAME = TwilightMe;
+				SDKROOT = iphoneos;
 			};
 			name = Release;
 		};
@@ -890,6 +900,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = TwilightMe_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					./Facebook/,
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "TwilightMe-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -897,6 +911,7 @@
 					"\"$(SRCROOT)/Bump\"",
 				);
 				PRODUCT_NAME = TwilightMe;
+				SDKROOT = iphoneos;
 			};
 			name = "Ad Hoc";
 		};
@@ -931,6 +946,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = TwilightMe_Prefix.pch;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					./Facebook/,
+					/usr/include/libxml2,
+				);
 				INFOPLIST_FILE = "TwilightMe-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				LIBRARY_SEARCH_PATHS = (
@@ -938,6 +957,7 @@
 					"\"$(SRCROOT)/Bump\"",
 				);
 				PRODUCT_NAME = TwilightMe;
+				SDKROOT = iphoneos;
 			};
 			name = "Apple Store";
 		};
