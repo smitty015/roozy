@@ -109,27 +109,10 @@ static NSString *kBumpApiKey = @"5788d2ddd4bf429eb8bd12c5b387e3eb";
 	TMPhotoTileListController *tileList = [[TMPhotoTileListController alloc] init];
 	[self.navigationController pushViewController:tileList animated:YES];
 	tileList.listItems = [NSArray arrayWithObjects:
-						  [UIImage imageNamed:@"twilightMe01.png"],
-						  [UIImage imageNamed:@"twilightMe02.png"],
-						  [UIImage imageNamed:@"twilightMe03.png"],
-						  [UIImage imageNamed:@"twilightMe04.png"],
-						  [UIImage imageNamed:@"twilightMe05.png"],
-						  [UIImage imageNamed:@"twilightMe06.png"],
-						  [UIImage imageNamed:@"twilightMe07.png"],
-						  [UIImage imageNamed:@"twilightMe08.png"],
-						  [UIImage imageNamed:@"twilightMe09.png"],
-						  [UIImage imageNamed:@"twilightMe10.png"],
-						  [UIImage imageNamed:@"twilightMe11.png"],
-						  [UIImage imageNamed:@"twilightMe12.png"],
-						  [UIImage imageNamed:@"twilightMe13.png"],
-						  [UIImage imageNamed:@"twilightMe14.png"],
-						  [UIImage imageNamed:@"twilightMe15.png"], 
-						  [UIImage imageNamed:@"twilightMe16.png"], 
-						  [UIImage imageNamed:@"twilightMe17.png"], 
-						  [UIImage imageNamed:@"twilightMe18.png"], 
-						  [UIImage imageNamed:@"twilightMe19.png"], 
-						  [UIImage imageNamed:@"twilightMe20.png"], 
-						  [UIImage imageNamed:@"twilightMe21.png"], nil];
+						  [UIImage imageNamed:@"ka1.png"],
+						  [UIImage imageNamed:@"ka2.png"],
+						  [UIImage imageNamed:@"ka3.png"],
+						  [UIImage imageNamed:@"ka4.png"], nil];
 	tileList.userImage = image;
 }
 
