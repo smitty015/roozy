@@ -128,6 +128,10 @@
 		1FE6D62D10CC4E7900F7B52E /* TMSettingsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FE6D62C10CC4E7900F7B52E /* TMSettingsView.m */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		5C95AD45141C381D0081B668 /* ka1.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C95AD41141C381C0081B668 /* ka1.png */; };
+		5C95AD46141C381D0081B668 /* ka2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C95AD42141C381D0081B668 /* ka2.png */; };
+		5C95AD47141C381D0081B668 /* ka3.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C95AD43141C381D0081B668 /* ka3.png */; };
+		5C95AD48141C381D0081B668 /* ka4.png in Resources */ = {isa = PBXBuildFile; fileRef = 5C95AD44141C381D0081B668 /* ka4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -311,6 +315,10 @@
 		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* TwilightMe_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwilightMe_Prefix.pch; sourceTree = "<group>"; };
+		5C95AD41141C381C0081B668 /* ka1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ka1.png; sourceTree = "<group>"; };
+		5C95AD42141C381D0081B668 /* ka2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ka2.png; sourceTree = "<group>"; };
+		5C95AD43141C381D0081B668 /* ka3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ka3.png; sourceTree = "<group>"; };
+		5C95AD44141C381D0081B668 /* ka4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ka4.png; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* TwilightMe-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TwilightMe-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -451,6 +459,10 @@
 		1F93BCA410BDE72E002B351C /* Pictures */ = {
 			isa = PBXGroup;
 			children = (
+				5C95AD41141C381C0081B668 /* ka1.png */,
+				5C95AD42141C381D0081B668 /* ka2.png */,
+				5C95AD43141C381D0081B668 /* ka3.png */,
+				5C95AD44141C381D0081B668 /* ka4.png */,
 				1F922D6510D0783300E725E9 /* twilightMe01.png */,
 				1F922D6610D0783300E725E9 /* twilightMe02.png */,
 				1F922D6710D0783300E725E9 /* twilightMe03.png */,
@@ -750,6 +762,10 @@
 				1F9E71F611150354002777AE /* BumpPromptScreen.xib in Resources */,
 				1F9E71F711150354002777AE /* BumpStartScreen.xib in Resources */,
 				1F530EFA122605EA00ACF077 /* bump_popupdefault.png in Resources */,
+				5C95AD45141C381D0081B668 /* ka1.png in Resources */,
+				5C95AD46141C381D0081B668 /* ka2.png in Resources */,
+				5C95AD47141C381D0081B668 /* ka3.png in Resources */,
+				5C95AD48141C381D0081B668 /* ka4.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
